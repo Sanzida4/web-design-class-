@@ -1,0 +1,19 @@
+.menu{
+    background-color: rgb(210, 180, 238);
+}
+.menu ul{
+    list-style: none;
+    text-align: center;
+}
+.menu ul li{
+    display: inline-block;
+    text-align: center;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding: 12px 25px;
+    display: inline-block;
+    text-align: center;
+}
